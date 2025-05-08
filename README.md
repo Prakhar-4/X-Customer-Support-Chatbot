@@ -152,7 +152,7 @@
 - How to Post Photos or GIFs on X
 - How to Post Links in a Post
 - About X Polls
-- About X's Link Service (http://t.co)
+- About X's Link Service
 - About TwitPic
 
 ## Accessibility
